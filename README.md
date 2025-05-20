@@ -110,7 +110,7 @@ A helper script that automates rendering and animating a 360° spin around a sta
 ## 📚 Documentation
 
 Full Doxygen-generated documentation is available here:  
-[Open Docs](./docs/index.html)
+[Open Docs](https://pcyrian.github.io/AdvancedRaytracer/)
 
 Includes detailed breakdowns of classes, rendering pipeline internals, BVH traversal logic, and SIMD functions.
 
