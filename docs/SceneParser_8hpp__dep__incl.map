@@ -1,0 +1,32 @@
+<map id="include/loaders/SceneParser.hpp" name="include/loaders/SceneParser.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="797,5,1028,31"/>
+<area shape="rect" id="Node000002" href="$Utils_8hpp.html" title=" " alt="" coords="610,79,773,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="865,37,728,81,726,76,864,32"/>
+<area shape="rect" id="Node000008" href="$SceneParser_8cpp.html" title=" " alt="" coords="919,225,1122,251"/>
+<area shape="poly" id="edge18_Node000001_Node000008" title=" " alt="" coords="927,42,1017,224,1012,226,922,44"/>
+<area shape="rect" id="Node000003" href="$Raytracer_8hpp.html" title=" " alt="" coords="661,152,855,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="706,113,742,150,738,154,702,117"/>
+<area shape="rect" id="Node000006" href="$FASTRenderer_8cpp.html" title=" " alt="" coords="850,299,1077,324"/>
+<area shape="poly" id="edge17_Node000002_Node000006" title=" " alt="" coords="779,104,878,123,985,149,1078,183,1113,202,1136,224,1144,239,1143,253,1135,265,1123,275,1087,290,1045,301,1043,296,1085,285,1120,270,1131,261,1138,251,1138,240,1132,227,1110,207,1076,188,983,155,877,128,778,109"/>
+<area shape="rect" id="Node000009" href="$Visualizer_8hpp.html" title=" " alt="" coords="231,152,427,177"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="620,109,388,155,387,149,619,104"/>
+<area shape="rect" id="Node000010" href="$Visualizer_8cpp.html" title=" " alt="" coords="235,225,401,251"/>
+<area shape="poly" id="edge16_Node000002_Node000010" title=" " alt="" coords="675,116,641,149,598,180,561,193,508,206,393,228,392,223,507,201,559,188,595,175,638,145,671,113"/>
+<area shape="rect" id="Node000011" href="$BDPT_8hpp.html" title="Implements Bidirectional Path Tracing (BDPT) for better caustics." alt="" coords="5,152,207,177"/>
+<area shape="poly" id="edge13_Node000002_Node000011" title=" " alt="" coords="597,107,201,155,200,149,596,101"/>
+<area shape="rect" id="Node000012" href="$Utils_8cpp.html" title=" " alt="" coords="451,152,585,177"/>
+<area shape="poly" id="edge15_Node000002_Node000012" title=" " alt="" coords="652,112,547,154,545,149,650,107"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="743,143,707,106,711,102,747,139"/>
+<area shape="rect" id="Node000004" href="$FASTRenderer_8hpp.html" title=" " alt="" coords="639,225,895,251"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="764,191,768,225,763,226,759,191"/>
+<area shape="rect" id="Node000005" href="$Raytracer_8cpp.html" title=" " alt="" coords="235,299,401,324"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="650,182,559,200,466,228,404,260,337,301,335,296,401,256,464,223,557,195,649,177"/>
+<area shape="rect" id="Node000007" href="$main_8cpp.html" title=" " alt="" coords="477,225,615,251"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="712,184,581,228,579,223,710,179"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="814,178,979,223,977,228,813,183"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="682,255,391,301,390,296,681,250"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="812,253,932,296,930,301,811,258"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="276,185,247,202,224,227,220,237,222,247,236,267,260,283,287,296,285,301,257,288,232,271,217,249,215,237,220,224,244,198,273,180"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="328,192,322,226,317,225,322,191"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="131,185,214,248,297,296,294,301,211,253,128,189"/>
+</map>

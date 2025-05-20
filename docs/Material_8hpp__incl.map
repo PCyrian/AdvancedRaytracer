@@ -1,0 +1,14 @@
+<map id="include/rendering/Material.hpp" name="include/rendering/Material.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="53,5,275,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,64,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,33,69,74,67,69,142,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="88,79,165,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,32,141,68,137,65,155,30"/>
+<area shape="rect" id="Node000004" href="$Vector3D_8hpp.html" title=" " alt="" coords="192,152,333,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,30,249,139,245,142,170,33"/>
+<area shape="rect" id="Node000006" href="$Texture_8hpp.html" title=" " alt="" coords="241,79,405,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="191,28,285,71,283,75,188,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="231,225,294,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="265,178,265,212,260,212,260,178"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="315,106,283,143,279,140,311,103"/>
+</map>

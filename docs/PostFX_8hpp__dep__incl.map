@@ -1,0 +1,33 @@
+<map id="include/rendering/PostFX.hpp" name="include/rendering/PostFX.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="895,5,1107,31"/>
+<area shape="rect" id="Node000002" href="$Raytracer_8hpp.html" title=" " alt="" coords="797,79,991,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="974,40,913,81,910,76,971,36"/>
+<area shape="rect" id="Node000013" href="$PostFX_8cpp.html" title=" " alt="" coords="1016,79,1199,104"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="1030,36,1091,76,1088,81,1028,40"/>
+<area shape="rect" id="Node000003" href="$Utils_8hpp.html" title=" " alt="" coords="455,152,618,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="817,109,588,155,587,149,816,104"/>
+<area shape="rect" id="Node000005" href="$Raytracer_8cpp.html" title=" " alt="" coords="648,299,815,324"/>
+<area shape="poly" id="edge15_Node000002_Node000005" title=" " alt="" coords="923,111,940,129,954,151,961,181,958,207,944,230,922,253,898,271,871,285,815,302,814,297,869,280,896,266,919,249,940,227,953,205,956,181,949,153,936,132,919,114"/>
+<area shape="rect" id="Node000010" href="$FASTRenderer_8hpp.html" title=" " alt="" coords="683,152,939,177"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="872,115,827,154,823,150,869,111"/>
+<area shape="rect" id="Node000011" href="$main_8cpp.html" title=" " alt="" coords="1015,152,1152,177"/>
+<area shape="poly" id="edge16_Node000002_Node000011" title=" " alt="" coords="938,106,1053,149,1051,154,936,111"/>
+<area shape="rect" id="Node000012" href="$SceneParser_8cpp.html" title=" " alt="" coords="1177,152,1379,177"/>
+<area shape="poly" id="edge17_Node000002_Node000012" title=" " alt="" coords="970,104,1216,149,1215,155,969,109"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="614,147,843,101,844,107,615,152"/>
+<area shape="rect" id="Node000004" href="$Visualizer_8hpp.html" title=" " alt="" coords="216,225,412,251"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="489,184,351,228,349,223,487,179"/>
+<area shape="rect" id="Node000006" href="$Visualizer_8cpp.html" title=" " alt="" coords="163,299,329,324"/>
+<area shape="poly" id="edge10_Node000003_Node000006" title=" " alt="" coords="442,172,372,178,301,189,242,205,220,215,205,227,201,235,200,244,206,263,219,281,234,297,231,300,215,285,201,265,194,244,196,234,201,224,217,211,240,200,300,184,371,173,441,167"/>
+<area shape="rect" id="Node000007" href="$BDPT_8hpp.html" title="Implements Bidirectional Path Tracing (BDPT) for better caustics." alt="" coords="436,225,637,251"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="539,191,539,225,534,225,534,191"/>
+<area shape="rect" id="Node000008" href="$Utils_8cpp.html" title=" " alt="" coords="5,225,140,251"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="449,182,141,229,140,224,448,177"/>
+<area shape="rect" id="Node000009" href="$FASTRenderer_8cpp.html" title=" " alt="" coords="662,225,889,251"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="589,179,737,223,736,228,587,184"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="395,250,665,296,664,301,394,256"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="295,262,259,300,255,297,292,259"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="581,253,700,296,699,301,580,258"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="854,181,878,195,898,211,908,230,908,241,903,252,885,271,864,286,816,304,814,299,861,281,882,267,898,249,903,240,903,232,893,215,874,199,851,186"/>
+<area shape="poly" id="edge14_Node000010_Node000009" title=" " alt="" coords="802,191,784,226,779,224,797,188"/>
+</map>

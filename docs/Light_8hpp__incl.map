@@ -1,0 +1,11 @@
+<map id="include/rendering/Light.hpp" name="include/rendering/Light.hpp">
+<area shape="rect" id="Node000001" title="Defines light sources for the ray tracer." alt="" coords="5,5,204,31"/>
+<area shape="rect" id="Node000002" href="$Point3D_8hpp.html" title=" " alt="" coords="90,79,223,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,29,142,66,138,69,111,33"/>
+<area shape="rect" id="Node000003" href="$Vector3D_8hpp.html" title=" " alt="" coords="10,152,119,177"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="101,32,81,79,70,138,64,137,75,78,96,30"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,106,92,146,89,141,140,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="79,225,141,251"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="156,105,134,178,122,213,117,211,129,177,151,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="74,176,98,212,93,215,70,179"/>
+</map>

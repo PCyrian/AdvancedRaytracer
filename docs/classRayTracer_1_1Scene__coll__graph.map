@@ -1,0 +1,9 @@
+<map id="RayTracer::Scene" name="RayTracer::Scene">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,240,200,265"/>
+<area shape="rect" id="Node000002" href="$classRayTracer_1_1Camera.html" title=" " alt="" coords="61,152,206,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,191,136,239,131,239,131,191"/>
+<area shape="rect" id="Node000003" href="$structMath_1_1Point3D.html" title=" " alt="" coords="5,5,120,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,43,88,83,109,127,125,150,121,153,104,129,83,85,68,45"/>
+<area shape="rect" id="Node000004" href="$structMath_1_1Vector3D.html" title=" " alt="" coords="144,5,267,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="206,45,197,86,178,130,154,154,150,150,174,126,192,84,200,44"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="RayTracer::Shear" name="RayTracer::Shear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,285,147,311"/>
+<area shape="rect" id="Node000002" href="$classRayTracer_1_1Primitive.html" title=" " alt="" coords="5,211,159,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,250,85,285,79,285,79,250"/>
+<area shape="rect" id="Node000003" href="$structRayTracer_1_1Material.html" title=" " alt="" coords="8,123,156,148"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,162,85,210,79,210,79,162"/>
+<area shape="rect" id="Node000004" href="$structMath_1_1Vector3D.html" title=" " alt="" coords="21,5,143,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,44,85,123,79,123,79,44"/>
+</map>

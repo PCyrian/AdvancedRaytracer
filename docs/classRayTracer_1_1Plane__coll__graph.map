@@ -1,0 +1,12 @@
+<map id="RayTracer::Plane" name="RayTracer::Plane">
+<area shape="rect" id="Node000001" title="Infinite, single&#45;sided plane primitive." alt="" coords="95,299,225,324"/>
+<area shape="rect" id="Node000002" href="$classRayTracer_1_1Primitive.html" title=" " alt="" coords="83,211,237,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,250,163,298,157,298,157,250"/>
+<area shape="rect" id="Node000003" href="$structRayTracer_1_1Material.html" title=" " alt="" coords="85,123,233,148"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="162,162,162,210,157,210,156,162"/>
+<area shape="rect" id="Node000004" href="$structMath_1_1Vector3D.html" title=" " alt="" coords="5,5,128,31"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="63,45,57,83,54,132,58,185,73,235,86,255,103,272,139,296,136,301,99,276,82,258,68,237,52,186,48,132,52,83,58,44"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="86,40,152,121,147,124,82,43"/>
+<area shape="rect" id="Node000005" href="$structMath_1_1Point3D.html" title=" " alt="" coords="261,211,376,236"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="287,245,183,301,180,296,284,240"/>
+</map>

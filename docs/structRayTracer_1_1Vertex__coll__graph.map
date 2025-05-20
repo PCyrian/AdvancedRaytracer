@@ -1,0 +1,15 @@
+<map id="RayTracer::Vertex" name="RayTracer::Vertex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,317,141,343"/>
+<area shape="rect" id="Node000002" href="$structRayTracer_1_1HitRecord.html" title=" " alt="" coords="138,229,297,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,264,94,319,92,315,185,259"/>
+<area shape="rect" id="Node000003" href="$structMath_1_1Point3D.html" title=" " alt="" coords="463,125,577,150"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,158,352,208,267,232,265,227,350,203,480,153"/>
+<area shape="rect" id="Node000004" href="$structMath_1_1Vector3D.html" title=" " alt="" coords="11,5,133,31"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="66,44,64,55,63,77,64,99,68,205,75,317,70,317,63,205,59,99,57,77,59,54,61,43"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="71,44,70,96,75,124,86,151,107,177,133,198,187,227,185,232,130,202,103,180,82,153,70,126,65,96,66,44"/>
+<area shape="rect" id="Node000005" href="$structRayTracer_1_1Material.html" title=" " alt="" coords="143,125,291,150"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="99,37,205,122,201,127,95,42"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="220,164,220,229,215,229,215,164"/>
+<area shape="rect" id="Node000006" href="$structMath_1_1Vector2D.html" title=" " alt="" coords="316,125,439,150"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="353,161,284,208,241,232,239,227,281,203,350,156"/>
+</map>

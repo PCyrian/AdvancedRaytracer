@@ -1,0 +1,5 @@
+<map id="RayTracer::Cone" name="RayTracer::Cone">
+<area shape="rect" id="Node000001" title="Finite (capped) right‐circular cone primitive." alt="" coords="19,79,145,104"/>
+<area shape="rect" id="Node000002" href="$classRayTracer_1_1Primitive.html" title=" " alt="" coords="5,5,159,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,44,85,79,79,79,79,44"/>
+</map>

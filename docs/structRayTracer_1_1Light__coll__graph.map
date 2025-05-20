@@ -1,0 +1,7 @@
+<map id="RayTracer::Light" name="RayTracer::Light">
+<area shape="rect" id="Node000001" title="Encapsulates a light source&#39;s properties." alt="" coords="74,93,201,119"/>
+<area shape="rect" id="Node000002" href="$structMath_1_1Vector3D.html" title=" " alt="" coords="5,5,128,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,39,130,91,125,94,83,43"/>
+<area shape="rect" id="Node000003" href="$structMath_1_1Point3D.html" title=" " alt="" coords="152,5,267,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,44,175,71,152,95,148,91,171,68,192,40"/>
+</map>
