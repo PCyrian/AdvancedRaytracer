@@ -3,7 +3,7 @@
 A high-performance, object-oriented CPU path tracer with BVH8 acceleration, SIMD-optimized AABB traversal, and flexible scene configuration.
 A 1 month Epitech University project with a bit more polish.
 
-[![Docs](https://img.shields.io/badge/docs-Doxygen-blue.svg)](./docs/index.html)
+[![Docs](https://img.shields.io/badge/docs-Doxygen-blue.svg)](https://pcyrian.github.io/AdvancedRaytracer/)
 
 <p align="center">
   <img src="outputs/demos/House2048.png" width="400"/>
